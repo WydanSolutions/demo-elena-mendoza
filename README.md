@@ -1,9 +1,9 @@
-# Demostración · Página de gestión para un consultorio médico
+# Demostración · Página de gestión para Centro Thot
 
-Demostración de una página de gestión para el consultorio de la **Dra. Elena Mendoza**
-(Medicina General), desarrollada por **Wydan Solutions**.
+Demostración de la página de gestión de **Centro Thot** (Abordaje Integral del Dolor · Dr. Fernando Corbo, Rivera),
+desarrollada por **Wydan Solutions**.
 
-- **Todos los datos son inventados.** No hay pacientes, cédulas, teléfonos ni historias clínicas reales.
+- **Los pacientes y sus datos son inventados.** No hay pacientes, cédulas, teléfonos ni historias clínicas reales.
 - Funciona por completo en el navegador: no hay servidor ni base de datos.
 - Contraseña de la demostración: `1234`.
 
